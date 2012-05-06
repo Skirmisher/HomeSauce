@@ -1,0 +1,3 @@
+- Multiworld support (separate home for each world, each command being able to target another world but defaulting to the current, configurable)
+- Options
+- Getting the freaking commands to work

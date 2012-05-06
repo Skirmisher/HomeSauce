@@ -1,0 +1,8 @@
+*:/home [$] = >>>
+    try(
+        _home_dispatch($),
+    @ex,
+        msg(color(red), 'Oops, an error occurred. Check the console!')
+        console(@ex)
+    )
+<<<
